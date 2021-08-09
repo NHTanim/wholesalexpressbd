@@ -1,0 +1,168 @@
+
+
+/* nav start here */
+.bg-light{
+  background-color: #e6e6e6!important;
+}
+.container-fluid{
+    margin: 2px 0 2px 20px !important;
+}
+.logo{
+    height: 40px;
+    width: 190px;
+}
+.nav-link{
+    font-size: 20px !important;
+}
+
+/* nav end here */
+
+
+
+
+
+/* carousel start here */
+.carousel_container{
+    margin-top: 100px;
+}
+.carouselbg_color{
+  background-color: #FEEAE9;
+  border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 30px 50px;
+}
+
+.carousel-item .price{
+    color: #f73b83;
+}
+.carousel-item .bye-now-button{
+    background-image: linear-gradient(to bottom, #fa639d 0%, #f73b83 100% );
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+/* carousel end here */
+
+
+
+
+
+
+/* categories start here */
+.container_categories{
+    margin-top: 100px;
+}
+.container_categories h1{
+    color: #fff;
+}
+.container_categories img{
+    width: 100px;
+}
+.categories_watch{
+  background-color: orange;
+  padding: 10px 30px;
+  border-radius: 15px;
+}
+.categories_bag{
+ background-color: palegreen;
+ padding: 10px 30px;
+ border-radius: 15px;
+}
+.categories_shoes{
+ background-color: purple;
+ padding: 10px 30px;
+ border-radius: 15px;
+}
+/* categories end here */
+
+
+
+
+
+
+/* products start here */
+
+/* shoes */
+.container_shoes{
+ margin-top: 100px;
+}
+
+.card{
+    border : none;
+    box-shadow:  5px 5px 10px lightgray;
+}
+.container_shoes .bye-now-button{
+    background-image: linear-gradient(to bottom, #fa639d 0%, #f73b83 100% );
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+
+/* Bages */
+.container_bag{
+    margin-top: 100px;
+}
+
+.container_bag .bye-now-button{
+    background-image: linear-gradient(to bottom, #fa639d 0%, #f73b83 100% );
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.card-footer{
+  background-color: #fff !important;
+  border-top: none !important;
+}
+/* product end here */
+
+
+
+
+
+/* contact start here */
+.container_contact{
+    margin-top: 100px;
+    background-color: #FEEAE9;
+    border-radius: 10px;
+    height: 250px;
+}
+
+.container_contact .bye-now-button{
+    background-image: linear-gradient(to bottom, #fa639d 0%, #f73b83 100% );
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.container_contact h6{
+    color: gray;
+}
+/* contact end here */
+
+
+
+
+
+
+/* footer start here */
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
+footer small {
+    padding: 20px;
+}
+/* footer end here */
